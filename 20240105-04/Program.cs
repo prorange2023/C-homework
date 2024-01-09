@@ -21,6 +21,7 @@
         public class UI
         {
             public void HpBar()// <= 이 변수 때문인건 알았는데, 이걸 어떻게 해결해야하는가? 없애고 밑에서 변수 빼면 되긴 하는데 그럼 UI에 반영할 수가 없음...
+                // 아 이거 콜백함수에 변수 실어서 나르면 되는건데 방법이 기억이 안남 아
             {
                 Console.WriteLine($"player의 HP가 player.hp로 변화했습니다.");
             }
