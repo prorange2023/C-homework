@@ -2,6 +2,8 @@
 {
     internal class Program
     {
+
+        // class 복습
         class Skill()
         {
             protected float coolTime;
