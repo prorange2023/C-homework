@@ -4,6 +4,8 @@
     {
         public class Player
         {
+
+            // 앞 고민의 해결편. 참조하여 익힐것.
             int HP = 100;
             public event Action<int> OnChangeHp;
 
