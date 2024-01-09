@@ -4,6 +4,7 @@ namespace _20231229_02
 {
     internal class Program
     {
+        // abstract , override 개념 익히기
         abstract class Item
         {
             public abstract void Used();
