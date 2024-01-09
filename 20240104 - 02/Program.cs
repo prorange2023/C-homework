@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-
+        // Compare 함수 만들기, 자료형맞추기, readline활용
         public static int Compare(int x, int y)
         {
             return (x.CompareTo(y));
