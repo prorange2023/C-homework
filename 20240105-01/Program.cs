@@ -24,9 +24,9 @@ namespace _20240105_01
 
         public static void Main()
         {
-
+            float input1 = float.Parse( Console.ReadLine() );
             float num1 = 3;
-            float checkodd = CheckOdd(num1);
+            float checkodd = CheckOdd(input1);
             float chsck2 = num1.CheckOdd();
         }
     }
