@@ -4,7 +4,7 @@ namespace _20200821_002_IComparable2
 {
     class Program
     {
-
+        // Icomparable 응용연습2
         //     A++) IComparable 인터페이스(구글링, MSDN, StackOverflow)
 
         //     Item class를 IComparable 붙여서
