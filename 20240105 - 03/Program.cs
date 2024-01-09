@@ -4,6 +4,8 @@
     {
         public class Player
         {
+
+            // 이벤트, 콜백 등 응용한 장비 내구성 구현
             // 이벤트
             public Action OnTakeDamage;
 
