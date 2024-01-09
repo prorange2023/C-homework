@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-
+        // 일반화 즉 generic 기초
         public static void ArrayCopy<T>(T[] source, T[] output)
         {
             for (int i = 0; i < source.Length; i++) { output[i] = source[i]; }
