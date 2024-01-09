@@ -4,7 +4,8 @@ namespace _20231228_04
 {
     internal class Program
     {
-
+        // abstract, class 응용해 롤 시스템 간단히 구현해보기
+        // abstract 개념 다시한번 복습.
         public struct ChampionStat
         {
             public string name;
