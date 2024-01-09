@@ -2,6 +2,7 @@
 {
     internal class Program
     {
+        // IComparable 인터페이스 응용
 
         //     A++) IComparable 인터페이스(구글링, MSDN, StackOverflow)
 
@@ -73,7 +74,7 @@
                 Console.WriteLine(vTemp);
             }
 
-            // 왜 정렬이 작동하지 않는가
+            
         }
     }
 }
