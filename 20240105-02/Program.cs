@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-
+        // ref(참조) = 얕은복사 개념 익히기
         public static void Swap<Temp>(ref Temp left, ref Temp right)
         {
             Temp exam = left;
