@@ -4,6 +4,7 @@ using static System.Net.Mime.MediaTypeNames;
 
 namespace _20231228_03
 {
+    // class 상속 개념 익히기 응용
     internal class Program
     {
         class Monster
