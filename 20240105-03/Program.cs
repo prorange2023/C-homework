@@ -4,6 +4,8 @@
     {
         public class Player
         {
+
+            // property - getter setter 기초학습
             public int Hp { get; private set; }
         }
         static void Main()
