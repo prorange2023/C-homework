@@ -4,11 +4,16 @@
     {
         public class Calculator
         {
-            
+            // delegate 기초 
+
+
             double left;
             double right;
 
             Func<double, double, double> calc;
+
+            // Func delegate 는 함수랑 동치 가능 이거 알아두면 편하긴 했음
+
             public double Add(double left, double right) { return left + right; }
             public double Minus(double left, double right) { return left - right; }
 
