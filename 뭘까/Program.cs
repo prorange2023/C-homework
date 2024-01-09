@@ -6,6 +6,8 @@ namespace Project
 {
     internal class Program
     {
+
+        // 앞서 어딘가에 메모한 fnc delegate는 함수랑 동치 가능 기억회상편 까먹지 말자
         public class Calculator
         {
             Func<double, double, double> calc;
