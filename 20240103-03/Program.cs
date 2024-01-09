@@ -2,6 +2,9 @@
 {
     internal class Program
     {
+
+        // Callback 함수다! 익혀두도록 하자
+
         public class Player
         {
             public void Jump()
