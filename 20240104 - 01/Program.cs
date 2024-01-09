@@ -2,6 +2,8 @@
 {
     internal class Program
     {
+
+        // callback 간단 응용
         public class Player
         {
             public event Action OnGetCoin;
