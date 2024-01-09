@@ -2,6 +2,7 @@
 {
     internal class Program
     {
+        // 인터페이스, IComparable 훈련
         //플레이어 : 물체를 여는 기능, 들어가는 기능
         //        상자, 문, 마을
         //        문, 마을 : 들어갈 수 있어야 함
