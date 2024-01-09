@@ -2,6 +2,8 @@
 {
     internal class Program
     {
+
+        // class 로 자동차 조작 구현
         class Driver
         {
             public string name;
